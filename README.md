@@ -1,4 +1,4 @@
-# Clound Implementation Project
+# Cloud Implementation Project
 
 ## Description
 Designed and implemented a cloud infrastructure solution for a video streaming service using Microsoft Azure. The project aimed to optimize performance, scalability, and cost efficiency while ensuring secure and reliable service delivery.
